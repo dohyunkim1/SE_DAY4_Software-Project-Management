@@ -2,7 +2,7 @@
 SE_DAY4_Software-Project-Management
 1. Importance of Timely Delivery in Software Project Management
 Timely delivery ensures that the software meets market demands, maintains stakeholder trust, and avoids cost overruns. Project managers can ensure deadlines are met by:
- ✔️ Setting clear milestones and deadlines.
+ ✔️ Setting clear milestones and deadlines. 
  ✔️ Using Agile methodologies for flexibility.
  ✔️ Monitoring progress with project management tools (e.g., Jira, Trello).
 2. Effective Cost Control in Software Projects
